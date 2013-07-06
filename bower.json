@@ -1,0 +1,8 @@
+{
+    "name": "simple-image-crop",
+    "version": "0.8.5",
+    "main": "public/js/jquery.simpleimagecrop.js",
+    "ignore": [ ".jshintrc", "**/*.txt" ],
+    "dependencies": { },
+    "devDependencies": { }
+}
